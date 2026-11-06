@@ -1,0 +1,1 @@
+-día 5/11/26 se trabajo  la librería de matplotlib y diferentes tipos de gráficos

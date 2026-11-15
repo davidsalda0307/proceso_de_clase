@@ -1,3 +1,5 @@
 -día 5/11/26 se trabajo  la librería de matplotlib y diferentes tipos de gráficos
 
 -dia 10/11/2026 se trabajo pandas y Numpy
+
+-dia 12/11/2026 adelanto de trabajo final
